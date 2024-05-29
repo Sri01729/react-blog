@@ -1,4 +1,4 @@
-#Personal Blog
+# Personal Blog
 
 This is a personal blog project created by using React.js library. Follow the below instructions to run this app on your local server.
 
